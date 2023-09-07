@@ -1,0 +1,50 @@
+[[entries]]
+title = "info"
+
+  [[entries.entries]]
+  title = "hi! i'm henry. i'm a teenager living in so called 'america'. here you'll find who i am, what i like, what i do, and maybe some writing about all of it."
+
+[[entries]]
+title = "interests"
+
+    [[entries.entries]]
+    title = "<strong>anarchism</strong>: the only way to be free is to control ourselves"
+
+    [[entries.entries]]
+    title = "<strong>storytelling</strong>: everything has a story, it just needs to be told"
+
+    [[entries.entries]]
+    title = "<strong>obscure (but better) ways of doing stuff</strong>: whether it's <a href='https://globasa.net'>globasa</a>, <a href='https://colemak.com'>colemak</a>, or <a href='https://ifps.tech'>ipfs</a> i probably use or know of it."
+
+    [[entries.entries]]
+    title = "<strong>music</strong>: current artist on repeat is andrew bird"
+
+    [[entries.entries]]
+    title = "<strong>books</strong>: current fav is the dandilion dynasty by ken liu"
+
+    [[entries.entries]]
+    title = "<strong>food</strong>: love that shit"
+
+[[entries]]
+title = "contact"
+
+  [[entries.entries]]
+  title = "matrix (preferred)"
+  url = "https://matrix.to/#/@metaltoilet:converser.eu"
+
+  [[entries.entries]]
+  title = "i also got discord"
+  url = "https://discordapp.com/users/791353975067639852"
+  
+[[entries]]
+title = "all posts"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "rss"
+url = "index.xml"
